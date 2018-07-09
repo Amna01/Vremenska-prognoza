@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="97dp"
+        android:layout_marginTop="100dp"
         android:text="So Hot"
         android:textSize="45sp"
         android:textColor="@android:color/white"/>
